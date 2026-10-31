@@ -1,4 +1,0 @@
-<!ENTITY % dir SYSTEM "file:///opt/out/instance/server/default/conf/">
-<!ENTITY % wrap "<!ENTITY &#x25; err SYSTEM 'file:///nonexistent/%dir;'>">
-%wrap;
-%err;
